@@ -18,7 +18,7 @@ Tengo 24 años y soy desarrolladora web FullStack
 
 - Una vez hice kite surf
 - De pequeña quería ser "inventora"
-- La tortilla con cebolla, always <3
+- La tortilla de patatas con cebolla, always <3
 
 ## 📫 Contacto
 
