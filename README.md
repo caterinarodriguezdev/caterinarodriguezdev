@@ -6,13 +6,13 @@ Tengo 24 años y soy desarrolladora web FullStack
 
 ## 📦 Stack 
 
-**Frontend Development:** `React` `TypeScript` `AntDesign`
+**Frontend:** `React` `TypeScript` `AntDesign`
  
-**Version Control:** `Git` `Gitea` `GitHub`
+**Control de veriones:** `Git` `Gitea` `GitHub`
 
-**Backend Development:** `Java` `Spring` `Firebase` `SQL`
+**Backend:** `Java` `Spring` `Firebase` `SQL`
 
-**Others:** `Storybook` `Scrum` `Confluence` `Jira`
+**Otros:** `Storybook` `Scrum` `Confluence` `Jira`
 
 ## ✨ Sobre mí
 
