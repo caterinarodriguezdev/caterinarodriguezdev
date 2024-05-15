@@ -6,7 +6,7 @@ Tengo 24 años y soy desarrolladora web full stack
 
 ## 📦 Stack 
 
-**Frontend:** `React` `TypeScript` `AntDesign`
+**Frontend:** `React` `TypeScript` `AntDesign` `Vite`
  
 **Control de versiones:** `Git` `Gitea` `GitHub`
 
