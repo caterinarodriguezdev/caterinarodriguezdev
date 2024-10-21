@@ -1,5 +1,5 @@
 ## Hola, me llamo Caterina 👋🏼
-Tengo 24 años y soy desarrolladora web full stack
+Tengo 25 años y soy desarrolladora web full stack
 
 - Visita mi [web](https://caterinarodriguezdev.vercel.app/) para saber más sobre mí
 
@@ -16,7 +16,7 @@ Tengo 24 años y soy desarrolladora web full stack
 
 ## ✨ Sobre mí
 
-- Una vez hice kite surf
+- Me encanta el mar ༄
 - De pequeña quería ser "inventora"
 - La tortilla de patatas con cebolla, always <3
 
