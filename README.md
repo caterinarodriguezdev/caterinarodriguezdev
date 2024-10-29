@@ -1,6 +1,8 @@
 ## Hola, me llamo Caterina 👋🏼
 Tengo 25 años y soy desarrolladora web full stack
 
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=caterinarodriguezdev&show_icons=true&locale=en&theme=tokyonight" alt="caterinarodriguezdev" /></p>
+
 - Visita mi [web](https://caterinarodriguezdev.vercel.app/) para saber más sobre mí
 
 
