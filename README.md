@@ -12,7 +12,7 @@ Tengo 25 años y soy desarrolladora web full stack
  
 **Control de versiones:** `Git` `Gitea` `GitHub`
 
-**Backend:** `Java` `Spring` `Firebase` `SQL`
+**Backend:** `Java` `Spring` `Firebase` `SQL` `PostgreSQL`
 
 **Otros:** `Storybook` `Scrum` `Confluence` `Jira`
 
